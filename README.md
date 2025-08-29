@@ -1,16 +1,17 @@
-## Hi there 👋
+## :mortar_board: About my schooling
+- Strasbourg Graduate School of Biotechnology, Strasbourg (Master and Engineering Diploma)
+- Higher school preparatory classes in Besançon
 
-<!--
-**guillaumesutty/guillaumesutty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :briefcase: Job
+- PhD at the IGBMC (Institute of Genetics and Molecular and Cellular Biology) in Strasbourg
+- In the team of [Sophie Jarriault](https://www.igbmc.fr/en/recherche/teams/in-vivo-cellular-plasticity-and-direct-reprogramming), working on a transdifferentiation event in C. elegans
 
-Here are some ideas to get you started:
+## :pushpin: Latest main contribution
+- [OscilloTF]([https://github.com/QGarot/scuti-server](https://github.com/guillaumesutty/OscilloTF))<!-- | [pdf](https://github.com/guillaumesutty/OscilloTF/blob/main/XXX.pdf) -->
+Model for the prediction of transcription factors and RNA binding proteins' activity along the cell cycle and across various cell types and cancer models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :mag_right: Languages and tools
+[![My Skills](https://skillicons.dev/icons?i=python,php,js,html,css,mysql,git,github)](https://skillicons.dev)
+
+## :pencil: Contact
+- Mail: guillaume.sutty@gmail.com
