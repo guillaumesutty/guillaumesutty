@@ -7,7 +7,7 @@
 - In the team of [Sophie Jarriault](https://www.igbmc.fr/en/recherche/teams/in-vivo-cellular-plasticity-and-direct-reprogramming), working on a transdifferentiation event in C. elegans
 
 ## :pushpin: Latest main contribution
-- [OscilloTF](https://github.com/guillaumesutty/OscilloTF))<!-- | [pdf](https://github.com/guillaumesutty/OscilloTF/blob/main/XXX.pdf) -->
+- [OscilloTF](https://github.com/guillaumesutty/OscilloTF) <!-- | [pdf](https://github.com/guillaumesutty/OscilloTF/blob/main/XXX.pdf) -->
 A model for the prediction of transcription factors and RNA binding proteins' activity along the cell cycle and across various cell types and cancer models.
 
 ## :mag_right: Languages and tools
