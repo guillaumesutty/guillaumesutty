@@ -7,6 +7,7 @@
 - In the team of [Sophie Jarriault](https://www.igbmc.fr/en/recherche/teams/in-vivo-cellular-plasticity-and-direct-reprogramming) and [Thomas Walter](https://institut-curie.org/person/thomas-walter), working on a transdifferentiation event in C. elegans
 
 ## :pushpin: Latest main contribution
+- [C. Elegans Neurons Interactive Diagram](https://github.com/guillaumesutty/Interactive_Web_Neurons_Elegans): An interactive webapp of C. Elegans neurons colored by class
 - [OscilloTF](https://github.com/guillaumesutty/OscilloTF): A model for the prediction of transcription factors and RNA binding proteins' activity along the cell cycle and across various cell types and cancer models.<!-- | [pdf](https://github.com/guillaumesutty/OscilloTF/blob/main/XXX.pdf) -->
 
 ## :mag_right: Languages and tools
