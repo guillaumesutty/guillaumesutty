@@ -11,7 +11,7 @@
 - [OscilloTF](https://github.com/guillaumesutty/OscilloTF): A model for the prediction of transcription factors and RNA binding proteins' activity along the cell cycle and across various cell types and cancer models.<!-- | [pdf](https://github.com/guillaumesutty/OscilloTF/blob/main/XXX.pdf) -->
 
 ## :mag_right: Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=python,php,js,html,css,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,php,js,html,css,mysql,git,github)](https://skillicons.dev)
 
 ## :pencil: Contact
 - Mail: guillaume.sutty@gmail.com
